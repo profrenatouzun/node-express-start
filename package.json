@@ -1,0 +1,19 @@
+{
+  "name": "node-express-start",
+  "version": "1.0.0",
+  "description": "Môdulo desenvolvido para ser utilizado na sala de aula para explicar como funciona e como inicialiar um servidor node express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Prof Renato Gobet Uzun",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
